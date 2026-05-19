@@ -103,10 +103,10 @@ updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
 svg = f"""
 <svg width="520" height="230" viewBox="0 0 520 230" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="520" height="230" rx="16" fill="#0d1117"/>
-  <rect x="1" y="1" width="518" height="228" rx="15" stroke="#30363d"/>
+  <rect width="520" height="230" rx="16" fill="#0b3d91"/>
+  <rect x="1" y="1" width="518" height="228" rx="15" stroke="#66b2ff"/>
 
-  <text x="30" y="45" fill="#58a6ff" font-size="24" font-family="Arial, sans-serif" font-weight="700">
+  <text x="30" y="45" fill="#ffffff" font-size="24" font-family="Arial, sans-serif" font-weight="700">
     {html.escape(USERNAME)}'s GitHub Stats
   </text>
 
