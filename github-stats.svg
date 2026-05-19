@@ -12,22 +12,18 @@
   </text>
 
   <text x="30" y="120" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
-    Total stars: 8
+    Total commits: 201
   </text>
 
   <text x="30" y="150" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
-    Total forks: 0
+    Total stars: 8
   </text>
 
   <text x="270" y="90" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
-    Followers: 11
-  </text>
-
-  <text x="270" y="120" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
-    Following: 11
+    Total forks: 0
   </text>
 
   <text x="30" y="200" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">
-    Last updated: 2026-05-19 22:18 UTC
+    Last updated: 2026-05-19 22:26 UTC
   </text>
 </svg>
