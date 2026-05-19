@@ -8,4 +8,4 @@ Socially, I am an engaged person who values collaboration and building strong re
 - 📫 How to reach me: sabor.khowajazada@gmail.com
 - ⚡ Fun fact: 2 gold and 1 silver at SM-Boxing in Stockholm (2017)🥇🥊
   
-[![Sabor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaborKhowajazada&show_icons=true&theme=tokyonight)](https://github.com/SaborKhowajazada)
+![Sabor's GitHub stats](./github-stats.svg)
