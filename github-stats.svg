@@ -1,0 +1,33 @@
+
+<svg width="520" height="230" viewBox="0 0 520 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="230" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="518" height="228" rx="15" stroke="#30363d"/>
+
+  <text x="30" y="45" fill="#58a6ff" font-size="24" font-family="Arial, sans-serif" font-weight="700">
+    SaborKhowajazada's GitHub Stats
+  </text>
+
+  <text x="30" y="90" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
+    Public repos: 8
+  </text>
+
+  <text x="30" y="120" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
+    Total stars: 8
+  </text>
+
+  <text x="30" y="150" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
+    Total forks: 0
+  </text>
+
+  <text x="270" y="90" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
+    Followers: 11
+  </text>
+
+  <text x="270" y="120" fill="#c9d1d9" font-size="18" font-family="Arial, sans-serif">
+    Following: 11
+  </text>
+
+  <text x="30" y="200" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">
+    Last updated: 2026-05-19 22:18 UTC
+  </text>
+</svg>
